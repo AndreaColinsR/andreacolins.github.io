@@ -14,10 +14,10 @@ I am a computational neuroscientist from **Chile**. My detailed timeline is:
 ### Research Positions and Education
 
 * **2020-present: Postdoctoral researcher** at [The Humpries Lab, University of Nottingham](https://www.humphries-lab.org/) (UK).<br>
-    Advisor: [Prof. Mark Humpries](https://www.nottingham.ac.uk/psychology/people/mark.humphries).
+    Advisor: [Prof. Mark Humpries](https://www.nottingham.ac.uk/psychology/people/mark.humphries). <br>
     Topic: Uncovering the neural basis of movement transitions <br>
 * **2016-2020: PhD student** at [Petersen Group, University of Manchester](http://www.petersenlab.manchester.ac.uk/labmembers/#.YCMAtmj7Q2y) (UK).<br>
-    Supervisor: [Prof. Rasmus Petersen](https://www.research.manchester.ac.uk/portal/r.petersen.html).
+    Supervisor: [Prof. Rasmus Petersen](https://www.research.manchester.ac.uk/portal/r.petersen.html). <br>
     Thesis: Quantifying whisking behaviour and its neural encoding during active somatosensation <br>
     Funded by [Beca Chile Doctorado en el Extranjero (CONICYT)](https://www.conicyt.cl/becasconicyt/2016/01/13/becas-doctorado-en-el-extranjero-bch-2016/). <br>
 * **2013-2015: MSc student** at [Departamento de Ingeniería Química, Biotecnología y Materiales, FCFM, Universidad de Chile](http://diqbm.uchile.cl/) (Chile).<br>
