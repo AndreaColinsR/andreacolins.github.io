@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "default","air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Felipe Isaule"
+title                    : "Andrea Colins Rodriguez"
 title_separator          : "|"
-subtitle                 : "Theoretical physicist" # site tagline that appears below site title in masthead
-name                     : "Felipe Isaule"
-description              : "Personal website of Dr. Felipe Isaule"
+subtitle                 : "Computational Neuroscientist" # site tagline that appears below site title in masthead
+name                     : "Andrea Colins Rodriguez"
+description              : "Personal website of Dr. Andrea Colins Rodriguez"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : felipeisaule
+  username               : AndreaColins
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/felipeisaule
+    - https://twitter.com/AndreaColins
 
 # Analytics
 analytics:
@@ -95,14 +95,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Andrea Colins Rodriguez"
-  avatar           : "/assets/images/scholar_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral researcher<br>Universitat de Barcelona"
+  name             : "Dr. Andrea Colins Rodriguez" 
+  avatar           : "/assets/images/Scholar_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Postdoctoral researcher<br>University of Nottingham"
   location         : "Manchester, UK"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fisaule@icc.ub.edu"
+      url: "mailto:andrea.colinsrodriguez1@nottingham.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/felipeisaule"
+      url: "https://twitter.com/AndreaColins"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
