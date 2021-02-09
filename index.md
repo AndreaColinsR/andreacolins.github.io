@@ -5,20 +5,17 @@ title: About me
 classes: wide
 ---
 
-<div style="text-align: justify"> I am a <b>theoretical physicist</b>. I am mostly interested in describing <b>quantum many-body systems</b> in <b>cold atom</b> and <b>nuclear physics</b>, particularly using field theory approaches. Some of my specific interests include:</div>
+<div style="text-align: justify"> I am a <b>computational neuroscientist</b>. I am mostly interested in describing <b>the motor and somatosensory systems</b> using computational approaches. Some of my specific interests include:</div>
 
-* Bose and Fermi gases
-* Quantum mixtures and polarons
-* Nuclear and neutron matter
-* Functional renormalisation group
-* Low-dimensional gases
-* Pairing and superfluidity
+* The whisker system
+* tracking animal behaviour
+* The motor system
+* Neural manifolds  
+* Sensory driven decision-making processes
 
 ## Contact
 
-Departament de Física Quàntica i Astrofísica<br>
-Facultat de Física<br>
-Universitat de Barcelona<br>
-Martí i Franquès, 1<br>
-08028 Barcelona<br>
-Spain<br>
+School of Psychology <br>
+University of Nottingham<br>
+Nottingham<br>
+United Kingdom<br>
