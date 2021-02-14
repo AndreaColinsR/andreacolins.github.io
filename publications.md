@@ -11,7 +11,7 @@ classes: wide
 
 
 
-All my publications are available for free either at arXiv or through Open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-3584-2251) and [gScholar](https://scholar.google.com/citations?hl=en&user=b1yEp0YAAAAJ&view_op=list_works&sortby=pubdate) profiles.
+All my publications are available for free either at arXiv or through Open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-3584-2251) and [gScholar](https://scholar.google.com/citations?user=b1yEp0YAAAAJ&hl=en) profiles.
 
 ### Publications
 
