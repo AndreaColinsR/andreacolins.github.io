@@ -11,9 +11,11 @@ classes: wide
 
 
 
-### Issue figure
+### Cover figure
 
-* 05/11/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_Mixtures_ERG2020.pdf), at [_ERG2020 Conference_](https://www2.yukawa.kyoto-u.ac.jp/~erg2020/ERG2020.html), Online/Kyoto (Japan).
+Text here 
+
+![cover](./assets/images/cover.jpg)
 
 ### SciDraw contributions
 
