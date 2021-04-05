@@ -15,12 +15,12 @@ classes: wide
 
 [(2020) PLoS Computational Biology Issue Image](https://journals.plos.org/ploscompbiol/issue?id=10.1371/issue.pcbi.v16.i01) | Vol. 16(1) January 2020. PLOS Computational Biology 16(1): ev16.i01. [https://doi.org/10.1371/image.pcbi.v16.i01](https://doi.org/10.1371/image.pcbi.v16.i01)
 
-![cover](./assets/images/cover.png)
+<img src="./assets/images/cover.png" alt="cover" width="400"/>
 
 ### SciDraw contributions
 
-Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [10.5281/zenodo.4662738](https://10.0.20.161/zenodo.4662738)
+Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [doi:10.5281/zenodo.4662738](https://10.0.20.161/zenodo.4662738)
 
-![Monkey](./assets/images/Monkey.png)
 
+<img src="./assets/images/Monkey.png" alt="Monkey" width="400"/>
 
