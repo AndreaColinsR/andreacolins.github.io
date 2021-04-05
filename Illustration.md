@@ -11,12 +11,11 @@ classes: wide
 
 
 
-### Cover figure
+### Issue Image
 
-Text here 
+(2020) PLoS Computational Biology Issue Image | Vol. 16(1) January 2020. PLOS Computational Biology 16(1): ev16.i01. [https://doi.org/10.1371/image.pcbi.v16.i01](https://doi.org/10.1371/image.pcbi.v16.i01)
 
-![cover](./assets/images/cover.jpg)
+![cover](./assets/images/cover.png)
 
 ### SciDraw contributions
 
-* 14/12/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2020_Mixtures_BadHonnef.pdf) (as a short talk), at [_Exploring Quantum Many‐Body Physics with Ultracold Atoms and Molecules_](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2020/exploring-quantum-many-body-physics-with-ultracold-atoms-and-molecules/), Online/Bad Honnef (Germany).
