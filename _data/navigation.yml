@@ -2,12 +2,12 @@
 main:
   - title: "Bio"
     url: /bio/
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Talks&Posters"
     url: /talks/
+    - title: "Scientific Illustration"
+    url: /Illustration/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
