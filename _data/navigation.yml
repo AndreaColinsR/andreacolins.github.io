@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Talks&Posters"
     url: /talks/
+    - title: "Illustration"
+    url: /Illustration/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
