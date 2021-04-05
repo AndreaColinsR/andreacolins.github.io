@@ -9,7 +9,7 @@ permalink: /bio/
 classes: wide
 ---
 
-I am a computational neuroscientist from **Chile**. My detailed timeline is:
+I am a computational neuroscientist from Chile living in the UK. My detailed timeline is:
 
 ### Research Positions and Education
 
