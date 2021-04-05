@@ -21,6 +21,6 @@ classes: wide
 
 Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [10.5281/zenodo.4662738](https://10.0.20.161/zenodo.4662738)
 
-![Monkey](./assets/images/cover.png)
+![Monkey](./assets/images/Monkey.png)
 
 
