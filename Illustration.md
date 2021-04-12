@@ -16,7 +16,7 @@ classes: wide
 [(2020) PLoS Computational Biology Issue Image](https://journals.plos.org/ploscompbiol/issue?id=10.1371/issue.pcbi.v16.i01) | Vol. 16(1) January 2020. PLOS Computational Biology 16(1): ev16.i01. [https://doi.org/10.1371/image.pcbi.v16.i01](https://doi.org/10.1371/image.pcbi.v16.i01)
 
 
-![](./assets/images/cover.png)
+![](./assets/images/cover_figure.png)
 
 ### SciDraw contributions
 
