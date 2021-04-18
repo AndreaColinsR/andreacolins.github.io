@@ -12,13 +12,13 @@ classes: wide
 
 
 ### Selected Talks
-<!---
- * 05/11/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_Mixtures_ERG2020.pdf), at [_ERG2020 Conference_](https://www2.yukawa.kyoto-u.ac.jp/~erg2020/ERG2020.html), Online/Kyoto (Japan).
- * 12/03/2020, [_Cold atom gases from functional Renormalization_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_FRG_ICC.pdf), [ICCUB seminar](http://icc.ub.edu/activity/1464), Barcelona (Spain).
- * 25/07/2019, [_Cold quantum gases from functional Renormalisation_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2019_FRG_SurreyAbInitio.pdf), at [_Ab initio nuclear theory workshop_](https://sites.google.com/view/ab-initio-surrey-workshop-2019/home), University of Surrey, Guildford (UK).
- * 05/04/2019, [_Functional renormalisation group for Bose gases: From linear to hydrodynamic fluctuations_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2019_AP_FunSCS.pdf), at EMMI Workshop [_Functional Methods in Strongly Correlated Systems_](https://indico.gsi.de/event/8375/overview), Hirschegg (Austria).
- * 01/11/2018, [_Application of the functional renormalisation group to Bose gases_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2018_AP_UKNTheory.pdf), at [_7th UK Nuclear Theory Meeting_](http://personal.ph.surrey.ac.uk/~cb0023/uktheory_7/uktheory_7/7th_UK_Nuclear_Theory_Meeting_2018.html), The University of Manchester, Manchester (UK).
- * 03/06/2016, [_Materia nuclear y la ecuación de estado de estrellas de neutrones_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2016_Dineutrones_DFI.pdf), [Seminario DFI-UChile](https://www.uchile.cl/agenda/122113/seminario-departamento-de-fisica-fcfm), Santiago (Chile).--->
+
+ * 29/07/2019, Adaptation in Barrel Cortex during active sensation, at [Research In Touch](https://researchintouch.info/), University of Nottingham (UK).
+
+ * 27/03/2018, WhiskerMan: A Suite of Tools for Model-Based Rodent Whisker Tracking, MMU Whisker Research Day, Manchester (UK).
+ 
+ * 04/06/2015, Prediccion de los fujos de absorcion intestinal de hierro usando algoritmos geneticos y modelos de estado, [Workshop: Modeling in Biomedicine](http://www.cmm.uchile.cl/?p=25148), Center for Mathematical Modeling. Santiago (Chile). 
+
 
 ### Posters
 <!---
