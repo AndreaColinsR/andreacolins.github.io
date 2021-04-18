@@ -22,7 +22,7 @@ classes: wide
 
 ### Selected Posters
 
-* 2021, Conservation of direction-dependent neural trajectories in primate motor cortex regardless of movement features, [Society for the Neural Control of Movement, Virtual Meeting 2021](https://ncm-society.org/)
+* 2021, [Conservation of direction-dependent neural trajectories in primate motor cortex regardless of movement features](https://raw.githubusercontent.com/AndreaColinsR/andreacolinsr.github.io/main/files/posters/NCM_PosterSlides.pdf), [Society for the Neural Control of Movement, Virtual Meeting 2021](https://ncm-society.org/)
 * 2018, Predicting spikes of barrel cortex neurons from sensory data during active sensation, at [Champalimaud Research Symposium 2018](https://symposium.research.fchampalimaud.org/2018-2/). Lisbon (Portugal).
 * 2014, Mathematical Modeling of Intestinal iron absorption using Genetic Programming (Best poster award), at X IEEE Latin-American Summer School on Computational Intelligence. Santiago (Chile). 
 
