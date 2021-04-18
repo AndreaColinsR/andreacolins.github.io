@@ -24,3 +24,4 @@ Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [
 
 ![Monkey](./assets/images/Monkey.png)
 
+Non-scientific illustrations can be found on [Deviantart](https://www.deviantart.com/andreacolins/gallery)
