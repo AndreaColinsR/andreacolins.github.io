@@ -20,7 +20,7 @@ classes: wide
 
 ### SciDraw contributions
 
-Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [doi:10.5281/zenodo.4662738](https://10.0.20.161/zenodo.4662738)
+Monkey (Arm Movement). Available at [SciDraw](https://scidraw.io/drawing/445). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4662738.svg)](https://doi.org/10.5281/zenodo.4662738)
 
 ![Monkey](./assets/images/Monkey.png)
 
