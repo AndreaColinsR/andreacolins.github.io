@@ -13,9 +13,13 @@ classes: wide
 
 You can also see my publications on my [Orcid](https://orcid.org/0000-0003-3584-2251) and [gScholar](https://scholar.google.com/citations?user=b1yEp0YAAAAJ&hl=en) profiles.
 
+### Preprints
+*  **A. Colins Rodriguez** *, M. Loft,  I. Schiessl, M. Maravall, R.S. Petersen*, _Sensory adaptation in the barrel cortex during active sensation in the awake, behaving mouse_, BioRxiv (2022). [[doi:10.1371/journal.pcbi.1007402](https://doi.org/10.1371/journal.pcbi.1007402).](https://doi.org/10.1101/2022.07.07.499259).
+  
+
 ### Publications
 
-* R.S Petersen*, **A. Colins Rodriguez** *, MH. Evans, D. Campagner, M Loft, _A system for tracking whisker kinematics and whisker shape in three dimensions_, PLoS computational biology 16 (1), e1007402 (2020). [doi:10.1371/journal.pcbi.1007402](https://doi.org/10.1371/journal.pcbi.1007402).
+* R.S Petersen*, **A. Colins Rodriguez** *, MH. Evans, D. Campagner, M. Loft, _A system for tracking whisker kinematics and whisker shape in three dimensions_, PLoS computational biology 16 (1), e1007402 (2020). [doi:10.1371/journal.pcbi.1007402](https://doi.org/10.1371/journal.pcbi.1007402).
 
 * L. Cegarra*, **A Colins** *, ZP. Gerdtzen, MT. Nuñez, JC. Salgado, _Mathematical modeling of the relocation of the divalent metal transporter DMT1 in the intestinal iron absorption process_, PloS one 14 (6), e0218123 (2019). [10.1371/journal.pone.0218123](https://doi.org/10.1371/journal.pone.0218123). 
 
