@@ -13,6 +13,7 @@ classes: wide
 
 ### Selected Talks
 
+* 27/09/2022, **Simultaneous yet separable population encoding of arm movement direction and kinematics in motor cortex**, at [Neuromatch](https://www.crowdcast.io/e/neuromatch-conference-5/3).
  * 29/07/2019, **Adaptation in Barrel Cortex during active sensation**, at [Research In Touch](https://researchintouch.info/), University of Nottingham (UK).
 
  * 27/03/2018, **WhiskerMan: A Suite of Tools for Model-Based Rodent Whisker Tracking**, at MMU Whisker Research Day, Manchester (UK).
